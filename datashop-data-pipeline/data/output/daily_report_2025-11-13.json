@@ -1,0 +1,21 @@
+{
+  "report_date": "2025-11-14",
+  "total_sales": 65.0,
+  "top_5_products": [
+    {
+      "product_id": 1,
+      "quantity": 5,
+      "total_sale": 50.0
+    },
+    {
+      "product_id": 2,
+      "quantity": 1,
+      "total_sale": 15.0
+    }
+  ],
+  "customer_largest_purchase": {
+    "customer_id": 101,
+    "customer_name": "Alice",
+    "total_amount": 30.0
+  }
+}
