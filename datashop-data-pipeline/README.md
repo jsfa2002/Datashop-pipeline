@@ -1,4 +1,6 @@
 # DataShop Data Pipeline
+
+Elaborado por Juan Sebastián Fajardo Acevedo
 ## Descripción General del Proyecto
 
 Este proyecto implementa un pipeline automatizado para el procesamiento y aseguramiento de calidad sobre datos de ventas de una tienda ficticia llamada DataShop.
