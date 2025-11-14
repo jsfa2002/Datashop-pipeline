@@ -21,7 +21,9 @@ El sistema toma datos crudos, los transforma, verifica su integridad y genera un
 ## Estructura del Proyecto
 
 La estructura general del proyecto es la siguiente:
+
 <img width="301" height="375" alt="image" src="https://github.com/user-attachments/assets/0f15fd05-8a63-4c26-b393-2c93c8b10628" />
+
 
 - data/input/ : contiene los datos crudos que se procesan.
 
